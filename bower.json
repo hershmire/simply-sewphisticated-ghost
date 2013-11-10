@@ -1,0 +1,11 @@
+{
+  "name": "simply-sewphisticated-ghost-theme",
+  "version": "0.0.0",
+  "dependencies": {
+    "simply-sewphisticated-bootstrap": "https://github.com/hershmire/simply-sewphisticated-bootstrap.git#setup"
+  },
+  "devDependencies": {
+    "modernizr": "~2.6.2",
+    "jquery": "~1.10.2"
+  }
+}

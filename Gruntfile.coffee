@@ -10,7 +10,7 @@ module.exports = (grunt) ->
   config =
     options:
       basePath: 'source'
-      buildDir: 'dist'
+      buildDir: 'assets'
       tempDir: '.tmp'
 
   # Load options

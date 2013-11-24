@@ -11,6 +11,7 @@ module.exports = (grunt) ->
     'concurrent:server'
     # 'connect:livereload'
     # 'karma:unit:start'
+    'copy'
     'watch'
   ]
 

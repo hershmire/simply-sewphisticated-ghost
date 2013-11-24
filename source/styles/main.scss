@@ -1,15 +1,16 @@
 $icon-font-path: "/bower_components/sass-bootstrap/fonts/";
 
+// @import '../bower_components/simply-sewphisticated-bootstrap/dist/styles/ss-bootstrap.css';
 @import '../bower_components/simply-sewphisticated-bootstrap/dist/styles/ss-bootstrap.css';
 
-// img {
-//   display: block;
-//   max-width: 100%;
-//   height: auto;
-// }
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
 
 
 .jumbotron {
-    background-image: url('../../assets/css/images/grid-pattern.png');
+    background-image: url('./images/grid-pattern.png');
     background-repeat: repeat;
 }

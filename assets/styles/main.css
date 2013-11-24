@@ -1,6 +1,13 @@
 @import url(../bower_components/simply-sewphisticated-bootstrap/dist/styles/ss-bootstrap.css);
-/* line 12, ../../source/styles/main.scss */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/styles\/main\.scss}line{font-family:\000036}}
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/styles\/main\.scss}line{font-family:\0000313}}
 .jumbotron {
-  background-image: url("../../assets/css/images/grid-pattern.png");
+  background-image: url("./images/grid-pattern.png");
   background-repeat: repeat;
 }

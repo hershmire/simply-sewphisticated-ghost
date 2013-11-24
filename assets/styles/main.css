@@ -1,0 +1,6 @@
+@import url(../bower_components/simply-sewphisticated-bootstrap/dist/styles/ss-bootstrap.css);
+/* line 12, ../../source/styles/main.scss */
+.jumbotron {
+  background-image: url("../../assets/css/images/grid-pattern.png");
+  background-repeat: repeat;
+}

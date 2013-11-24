@@ -9,5 +9,5 @@ module.exports =
     expand: true
     cwd: "<%= options.basePath %>"
     src: "**/*.coffee"
-    dest: "<%= options.tempDir %>"
+    dest: "<%= options.buildDir %>"
     ext: ".js"

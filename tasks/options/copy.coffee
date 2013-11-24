@@ -14,8 +14,10 @@ module.exports =
       src: [
         '*.{ico,png,txt,html}'
         '.htaccess'
-        'images/{,*/}*.{webp,gif}'
+        'images/{,*/}*.{webp,gif,jpg,png}'
+        'styles/images/{,*/}*.{webp,gif,jpg,png}'
         'styles/fonts/{,*/}*.*'
+        'fonts/{,*/}*.*'
         'bower_components/**/*'
       ]
     ]

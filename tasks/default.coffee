@@ -9,7 +9,7 @@ module.exports = (grunt) ->
   [
     'clean:server'
     'concurrent:server'
-    'connect:livereload'
+    # 'connect:livereload'
     # 'karma:unit:start'
     'watch'
   ]

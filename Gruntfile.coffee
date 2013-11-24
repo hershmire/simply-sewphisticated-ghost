@@ -11,7 +11,8 @@ module.exports = (grunt) ->
     options:
       basePath: 'source'
       buildDir: 'assets'
-      tempDir: '.tmp'
+      tempDir: 'assets'
+      # tempDir: '.tmp'
 
   # Load options
   grunt.util._.merge(config, loadConfig('./tasks/options/'))

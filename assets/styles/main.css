@@ -1,3 +1,87 @@
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/global\/\*\*\%5C\/\*\*\.png}line{font-family:\0000374}}
+.global-sprite, .global-logo, .global-social-facebook, .global-social-pinterest, .global-social-rss, .global-social-twitter {
+  background: url('/assets/bower_components/simply-sewphisticated-bootstrap/app/images/global-saa9de88893.png') no-repeat;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/eddieleffler\/\.rbenv\/versions\/2\.0\.0-p247\/lib\/ruby\/gems\/2\.0\.0\/gems\/compass-0\.12\.2\/frameworks\/compass\/stylesheets\/compass\/utilities\/sprites\/_base\.scss}line{font-family:\0000360}}
+.global-logo {
+  background-position: 0 -30px;
+  height: 260px;
+  width: 678px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/eddieleffler\/\.rbenv\/versions\/2\.0\.0-p247\/lib\/ruby\/gems\/2\.0\.0\/gems\/compass-0\.12\.2\/frameworks\/compass\/stylesheets\/compass\/utilities\/sprites\/_base\.scss}line{font-family:\0000360}}
+.global-social-facebook {
+  background-position: -56px 0;
+  height: 30px;
+  width: 30px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/eddieleffler\/\.rbenv\/versions\/2\.0\.0-p247\/lib\/ruby\/gems\/2\.0\.0\/gems\/compass-0\.12\.2\/frameworks\/compass\/stylesheets\/compass\/utilities\/sprites\/_base\.scss}line{font-family:\0000360}}
+.global-social-pinterest {
+  background-position: -27px 0;
+  height: 29px;
+  width: 29px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/eddieleffler\/\.rbenv\/versions\/2\.0\.0-p247\/lib\/ruby\/gems\/2\.0\.0\/gems\/compass-0\.12\.2\/frameworks\/compass\/stylesheets\/compass\/utilities\/sprites\/_base\.scss}line{font-family:\0000360}}
+.global-social-rss {
+  background-position: -86px 0;
+  height: 30px;
+  width: 30px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/eddieleffler\/\.rbenv\/versions\/2\.0\.0-p247\/lib\/ruby\/gems\/2\.0\.0\/gems\/compass-0\.12\.2\/frameworks\/compass\/stylesheets\/compass\/utilities\/sprites\/_base\.scss}line{font-family:\0000360}}
+.global-social-twitter {
+  background-position: 0 0;
+  height: 22px;
+  width: 27px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/global-retina\/\*\*\%5C\/\*\.png}line{font-family:\0000374}}
+.global-retina-sprite {
+  background: url('/assets/bower_components/simply-sewphisticated-bootstrap/app/images/global-retina-s3e30dc6578.png') no-repeat;
+}
+
+@media (-webkit-min-device-pixel-ratio: 2), (-min-moz-device-pixel-ratio: 2), (min--moz-device-pixel-ratio: 2), (-o-min-device-pixel-ratio: 2 / 1), (min-device-pixel-ratio: 2), (min-resolution: 192dpi), (min-resolution: 2dppx) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/styles\/lib\/_mixins\.scss}line{font-family:\0000313}}
+  .global-all-retina-sprites, .global-logo, .global-social-facebook, .global-social-pinterest, .global-social-rss, .global-social-twitter {
+    background-image: url('/assets/bower_components/simply-sewphisticated-bootstrap/app/images/global-retina-s3e30dc6578.png');
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/styles\/lib\/_mixins\.scss}line{font-family:\0000319}}
+  .global-logo {
+    background-size: 678px auto;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/styles\/lib\/_mixins\.scss}line{font-family:\0000319}}
+  .global-social-facebook {
+    background-size: 678px auto;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/styles\/lib\/_mixins\.scss}line{font-family:\0000319}}
+  .global-social-pinterest {
+    background-size: 678px auto;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/styles\/lib\/_mixins\.scss}line{font-family:\0000319}}
+  .global-social-rss {
+    background-size: 678px auto;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/styles\/lib\/_mixins\.scss}line{font-family:\0000319}}
+  .global-social-twitter {
+    background-size: 678px auto;
+  }
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/styles\/lib\/_sprites\.scss}line{font-family:\0000319}}
+[class*="global-"],
+[className*="global-"] {
+  border: 0;
+  display: inline-block;
+  vertical-align: middle;
+}
+
 /*! normalize.css v2.1.3 | MIT License | git.io/normalize */
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/bower_components\/sass-bootstrap\/lib\/_normalize\.scss}line{font-family:\0000322}}
 article,
@@ -375,7 +459,7 @@ body {
   font-family: "Droid Serif";
   font-size: 18px;
   line-height: 1.42857;
-  color: #333333;
+  color: #666666;
   background-color: white;
 }
 
@@ -391,12 +475,12 @@ textarea {
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/bower_components\/sass-bootstrap\/lib\/_scaffolding\.scss}line{font-family:\0000343}}
 a {
-  color: #428bca;
+  color: #7fc8af;
   text-decoration: none;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/bower_components\/sass-bootstrap\/lib\/_scaffolding\.scss}line{font-family:\0000348}}
 a:hover, a:focus {
-  color: #2a6496;
+  color: #4baf8d;
   text-decoration: underline;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/bower_components\/sass-bootstrap\/lib\/_scaffolding\.scss}line{font-family:\0000353}}
@@ -420,7 +504,7 @@ img {
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/bower_components\/sass-bootstrap\/lib\/_scaffolding\.scss}line{font-family:\0000371}}
 .img-rounded {
-  border-radius: 6px;
+  border-radius: 0px;
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/bower_components\/sass-bootstrap\/lib\/_scaffolding\.scss}line{font-family:\0000378}}
@@ -429,7 +513,7 @@ img {
   line-height: 1.42857;
   background-color: white;
   border: 1px solid #dddddd;
-  border-radius: 4px;
+  border-radius: 0px;
   -webkit-transition: all 0.2s ease-in-out;
   transition: all 0.2s ease-in-out;
   display: inline-block;
@@ -499,11 +583,11 @@ cite {
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/bower_components\/sass-bootstrap\/lib\/_type\.scss}line{font-family:\0000338}}
 .text-primary {
-  color: #428bca;
+  color: #7fc8af;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/bower_components\/sass-bootstrap\/lib\/_type\.scss}line{font-family:\0000340}}
 .text-primary:hover {
-  color: #3071a9;
+  color: #5bb999;
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/bower_components\/sass-bootstrap\/lib\/_type\.scss}line{font-family:\0000344}}
@@ -826,7 +910,7 @@ code {
   color: #c7254e;
   background-color: #f9f2f4;
   white-space: nowrap;
-  border-radius: 4px;
+  border-radius: 0px;
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/bower_components\/sass-bootstrap\/lib\/_code\.scss}line{font-family:\0000325}}
@@ -841,7 +925,7 @@ pre {
   color: #333333;
   background-color: whitesmoke;
   border: 1px solid #cccccc;
-  border-radius: 4px;
+  border-radius: 0px;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/bower_components\/sass-bootstrap\/lib\/_code\.scss}line{font-family:\0000339}}
 pre code {
@@ -2292,7 +2376,7 @@ output {
   background-color: white;
   background-image: none;
   border: 1px solid #cccccc;
-  border-radius: 4px;
+  border-radius: 0px;
   -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
   box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
   -webkit-transition: border-color ease-in-out 0.15s, box-shadow ease-in-out 0.15s;
@@ -2412,7 +2496,7 @@ input[type="checkbox"],
   padding: 5px 10px;
   font-size: 16px;
   line-height: 1.5;
-  border-radius: 3px;
+  border-radius: 0px;
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/bower_components\/sass-bootstrap\/lib\/_mixins\.scss}line{font-family:\00003853}}
@@ -2438,7 +2522,7 @@ textarea.input-sm, .input-group-sm > textarea.form-control,
   padding: 10px 16px;
   font-size: 23px;
   line-height: 1.33;
-  border-radius: 6px;
+  border-radius: 0px;
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/bower_components\/sass-bootstrap\/lib\/_mixins\.scss}line{font-family:\00003853}}
@@ -2550,7 +2634,7 @@ textarea.input-lg, .input-group-lg > textarea.form-control,
   display: block;
   margin-top: 5px;
   margin-bottom: 10px;
-  color: #737373;
+  color: #a6a6a6;
 }
 
 @media (min-width: 768px) {
@@ -2633,7 +2717,7 @@ textarea.input-lg, .input-group-lg > textarea.form-control,
   padding: 6px 12px;
   font-size: 18px;
   line-height: 1.42857;
-  border-radius: 4px;
+  border-radius: 0px;
   -webkit-user-select: none;
   -moz-user-select: none;
   -ms-user-select: none;
@@ -2648,7 +2732,7 @@ textarea.input-lg, .input-group-lg > textarea.form-control,
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/bower_components\/sass-bootstrap\/lib\/_buttons\.scss}line{font-family:\0000328}}
 .btn:hover, .btn:focus {
-  color: #333333;
+  color: #b0b0b0;
   text-decoration: none;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/bower_components\/sass-bootstrap\/lib\/_buttons\.scss}line{font-family:\0000334}}
@@ -2670,21 +2754,21 @@ textarea.input-lg, .input-group-lg > textarea.form-control,
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/bower_components\/sass-bootstrap\/lib\/_buttons\.scss}line{font-family:\0000355}}
 .btn-default {
-  color: #333333;
+  color: #b0b0b0;
   background-color: white;
-  border-color: #cccccc;
+  border-color: #f4f2ee;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/bower_components\/sass-bootstrap\/lib\/_mixins\.scss}line{font-family:\00003470}}
 .btn-default:hover, .btn-default:focus, .btn-default:active, .btn-default.active {
-  color: #333333;
+  color: #b0b0b0;
   background-color: #ebebeb;
-  border-color: #adadad;
+  border-color: #dcd6c9;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/bower_components\/sass-bootstrap\/lib\/_mixins\.scss}line{font-family:\00003475}}
 .open .btn-default.dropdown-toggle {
-  color: #333333;
+  color: #b0b0b0;
   background-color: #ebebeb;
-  border-color: #adadad;
+  border-color: #dcd6c9;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/bower_components\/sass-bootstrap\/lib\/_mixins\.scss}line{font-family:\00003481}}
 .btn-default:active, .btn-default.active {
@@ -2697,26 +2781,26 @@ textarea.input-lg, .input-group-lg > textarea.form-control,
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/bower_components\/sass-bootstrap\/lib\/_mixins\.scss}line{font-family:\00003494}}
 .btn-default.disabled, .btn-default.disabled:hover, .btn-default.disabled:focus, .btn-default.disabled:active, .btn-default.disabled.active, .btn-default[disabled], .btn-default[disabled]:hover, .btn-default[disabled]:focus, .btn-default[disabled]:active, .btn-default[disabled].active, fieldset[disabled] .btn-default, fieldset[disabled] .btn-default:hover, fieldset[disabled] .btn-default:focus, fieldset[disabled] .btn-default:active, fieldset[disabled] .btn-default.active {
   background-color: white;
-  border-color: #cccccc;
+  border-color: #f4f2ee;
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/bower_components\/sass-bootstrap\/lib\/_buttons\.scss}line{font-family:\0000358}}
 .btn-primary {
   color: white;
-  background-color: #428bca;
-  border-color: #357ebd;
+  background-color: #7fc8af;
+  border-color: #6dc0a4;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/bower_components\/sass-bootstrap\/lib\/_mixins\.scss}line{font-family:\00003470}}
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active {
   color: white;
-  background-color: #3276b1;
-  border-color: #285e8e;
+  background-color: #62bc9d;
+  border-color: #48a887;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/bower_components\/sass-bootstrap\/lib\/_mixins\.scss}line{font-family:\00003475}}
 .open .btn-primary.dropdown-toggle {
   color: white;
-  background-color: #3276b1;
-  border-color: #285e8e;
+  background-color: #62bc9d;
+  border-color: #48a887;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/bower_components\/sass-bootstrap\/lib\/_mixins\.scss}line{font-family:\00003481}}
 .btn-primary:active, .btn-primary.active {
@@ -2728,8 +2812,8 @@ textarea.input-lg, .input-group-lg > textarea.form-control,
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/bower_components\/sass-bootstrap\/lib\/_mixins\.scss}line{font-family:\00003494}}
 .btn-primary.disabled, .btn-primary.disabled:hover, .btn-primary.disabled:focus, .btn-primary.disabled:active, .btn-primary.disabled.active, .btn-primary[disabled], .btn-primary[disabled]:hover, .btn-primary[disabled]:focus, .btn-primary[disabled]:active, .btn-primary[disabled].active, fieldset[disabled] .btn-primary, fieldset[disabled] .btn-primary:hover, fieldset[disabled] .btn-primary:focus, fieldset[disabled] .btn-primary:active, fieldset[disabled] .btn-primary.active {
-  background-color: #428bca;
-  border-color: #357ebd;
+  background-color: #7fc8af;
+  border-color: #6dc0a4;
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/bower_components\/sass-bootstrap\/lib\/_buttons\.scss}line{font-family:\0000362}}
@@ -2862,7 +2946,7 @@ textarea.input-lg, .input-group-lg > textarea.form-control,
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/bower_components\/sass-bootstrap\/lib\/_buttons\.scss}line{font-family:\0000383}}
 .btn-link {
-  color: #428bca;
+  color: #7fc8af;
   font-weight: normal;
   cursor: pointer;
   border-radius: 0;
@@ -2879,7 +2963,7 @@ textarea.input-lg, .input-group-lg > textarea.form-control,
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/bower_components\/sass-bootstrap\/lib\/_buttons\.scss}line{font-family:\00003103}}
 .btn-link:hover, .btn-link:focus {
-  color: #2a6496;
+  color: #4baf8d;
   text-decoration: underline;
   background-color: transparent;
 }
@@ -2894,7 +2978,7 @@ textarea.input-lg, .input-group-lg > textarea.form-control,
   padding: 10px 16px;
   font-size: 23px;
   line-height: 1.33;
-  border-radius: 6px;
+  border-radius: 0px;
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/bower_components\/sass-bootstrap\/lib\/_buttons\.scss}line{font-family:\00003127}}
@@ -2904,7 +2988,7 @@ textarea.input-lg, .input-group-lg > textarea.form-control,
   padding: 5px 10px;
   font-size: 16px;
   line-height: 1.5;
-  border-radius: 3px;
+  border-radius: 0px;
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/bower_components\/sass-bootstrap\/lib\/_buttons\.scss}line{font-family:\00003131}}
@@ -4023,7 +4107,7 @@ input[type="button"].btn-block {
   background-color: white;
   border: 1px solid #cccccc;
   border: 1px solid rgba(0, 0, 0, 0.15);
-  border-radius: 4px;
+  border-radius: 0px;
   -webkit-box-shadow: 0 6px 12px rgba(0, 0, 0, 0.175);
   box-shadow: 0 6px 12px rgba(0, 0, 0, 0.175);
   background-clip: padding-box;
@@ -4063,7 +4147,7 @@ input[type="button"].btn-block {
   color: white;
   text-decoration: none;
   outline: 0;
-  background-color: #428bca;
+  background-color: #7fc8af;
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/bower_components\/sass-bootstrap\/lib\/_dropdowns\.scss}line{font-family:\00003103}}
@@ -4138,7 +4222,7 @@ input[type="button"].btn-block {
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/bower_components\/sass-bootstrap\/lib\/_button-groups\.scss}line{font-family:\0000310}}
 .btn-default .caret {
-  border-top-color: #333333;
+  border-top-color: #b0b0b0;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/bower_components\/sass-bootstrap\/lib\/_button-groups\.scss}line{font-family:\0000317}}
 .btn-primary .caret, .btn-success .caret, .btn-warning .caret, .btn-danger .caret, .btn-info .caret {
@@ -4147,7 +4231,7 @@ input[type="button"].btn-block {
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/bower_components\/sass-bootstrap\/lib\/_button-groups\.scss}line{font-family:\0000322}}
 .dropup .btn-default .caret {
-  border-bottom-color: #333333;
+  border-bottom-color: #b0b0b0;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/bower_components\/sass-bootstrap\/lib\/_button-groups\.scss}line{font-family:\0000330}}
 .dropup .btn-primary .caret,
@@ -4344,13 +4428,13 @@ input[type="button"].btn-block {
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/bower_components\/sass-bootstrap\/lib\/_button-groups\.scss}line{font-family:\00003209}}
 .btn-group-vertical > .btn:first-child:not(:last-child) {
-  border-top-right-radius: 4px;
+  border-top-right-radius: 0px;
   border-bottom-right-radius: 0;
   border-bottom-left-radius: 0;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/bower_components\/sass-bootstrap\/lib\/_button-groups\.scss}line{font-family:\00003213}}
 .btn-group-vertical > .btn:last-child:not(:first-child) {
-  border-bottom-left-radius: 4px;
+  border-bottom-left-radius: 0px;
   border-top-right-radius: 0;
   border-top-left-radius: 0;
 }
@@ -4442,7 +4526,7 @@ input[type="button"].btn-block {
   text-align: center;
   background-color: #eeeeee;
   border: 1px solid #cccccc;
-  border-radius: 4px;
+  border-radius: 0px;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/bower_components\/sass-bootstrap\/lib\/_input-groups\.scss}line{font-family:\0000371}}
 .input-group-addon.input-sm,
@@ -4450,7 +4534,7 @@ input[type="button"].btn-block {
 .input-group-sm > .input-group-btn > .input-group-addon.btn {
   padding: 5px 10px;
   font-size: 16px;
-  border-radius: 3px;
+  border-radius: 0px;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/bower_components\/sass-bootstrap\/lib\/_input-groups\.scss}line{font-family:\0000376}}
 .input-group-addon.input-lg,
@@ -4458,7 +4542,7 @@ input[type="button"].btn-block {
 .input-group-lg > .input-group-btn > .input-group-addon.btn {
   padding: 10px 16px;
   font-size: 23px;
-  border-radius: 6px;
+  border-radius: 0px;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/bower_components\/sass-bootstrap\/lib\/_input-groups\.scss}line{font-family:\0000384}}
 .input-group-addon input[type="radio"],
@@ -4570,12 +4654,12 @@ input[type="button"].btn-block {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/bower_components\/sass-bootstrap\/lib\/_navs\.scss}line{font-family:\0000348}}
 .nav .open > a, .nav .open > a:hover, .nav .open > a:focus {
   background-color: #eeeeee;
-  border-color: #428bca;
+  border-color: #7fc8af;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/bower_components\/sass-bootstrap\/lib\/_navs\.scss}line{font-family:\0000352}}
 .nav .open > a .caret, .nav .open > a:hover .caret, .nav .open > a:focus .caret {
-  border-top-color: #2a6496;
-  border-bottom-color: #2a6496;
+  border-top-color: #4baf8d;
+  border-bottom-color: #4baf8d;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/bower_components\/sass-bootstrap\/lib\/_navs\.scss}line{font-family:\0000364}}
 .nav .nav-divider {
@@ -4603,7 +4687,7 @@ input[type="button"].btn-block {
   margin-right: 2px;
   line-height: 1.42857;
   border: 1px solid transparent;
-  border-radius: 4px 4px 0 0;
+  border-radius: 0px 0px 0 0;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/bower_components\/sass-bootstrap\/lib\/_navs\.scss}line{font-family:\0000394}}
 .nav-tabs > li > a:hover {
@@ -4624,7 +4708,7 @@ input[type="button"].btn-block {
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/bower_components\/sass-bootstrap\/lib\/_navs\.scss}line{font-family:\00003127}}
 .nav-pills > li > a {
-  border-radius: 4px;
+  border-radius: 0px;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/bower_components\/sass-bootstrap\/lib\/_navs\.scss}line{font-family:\00003130}}
 .nav-pills > li + li {
@@ -4633,7 +4717,7 @@ input[type="button"].btn-block {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/bower_components\/sass-bootstrap\/lib\/_navs\.scss}line{font-family:\00003138}}
 .nav-pills > li.active > a, .nav-pills > li.active > a:hover, .nav-pills > li.active > a:focus {
   color: white;
-  background-color: #428bca;
+  background-color: #7fc8af;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/bower_components\/sass-bootstrap\/lib\/_navs\.scss}line{font-family:\00003142}}
 .nav-pills > li.active > a .caret, .nav-pills > li.active > a:hover .caret, .nav-pills > li.active > a:focus .caret {
@@ -4688,7 +4772,7 @@ input[type="button"].btn-block {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/bower_components\/sass-bootstrap\/lib\/_navs\.scss}line{font-family:\00003203}}
 .nav-tabs-justified > li > a, .nav-tabs.nav-justified > li > a {
   margin-right: 0;
-  border-radius: 4px;
+  border-radius: 0px;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/bower_components\/sass-bootstrap\/lib\/_navs\.scss}line{font-family:\00003211}}
 .nav-tabs-justified > .active > a, .nav-tabs.nav-justified > .active > a,
@@ -4702,7 +4786,7 @@ input[type="button"].btn-block {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/bower_components\/sass-bootstrap\/lib\/_navs\.scss}line{font-family:\00003216}}
   .nav-tabs-justified > li > a, .nav-tabs.nav-justified > li > a {
     border-bottom: 1px solid #dddddd;
-    border-radius: 4px 4px 0 0;
+    border-radius: 0px 0px 0 0;
   }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/bower_components\/sass-bootstrap\/lib\/_navs\.scss}line{font-family:\00003222}}
   .nav-tabs-justified > .active > a, .nav-tabs.nav-justified > .active > a,
@@ -4725,14 +4809,14 @@ input[type="button"].btn-block {
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/bower_components\/sass-bootstrap\/lib\/_navs\.scss}line{font-family:\00003247}}
 .nav .caret {
-  border-top-color: #428bca;
-  border-bottom-color: #428bca;
+  border-top-color: #7fc8af;
+  border-bottom-color: #7fc8af;
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/bower_components\/sass-bootstrap\/lib\/_navs\.scss}line{font-family:\00003251}}
 .nav a:hover .caret {
-  border-top-color: #2a6496;
-  border-bottom-color: #2a6496;
+  border-top-color: #4baf8d;
+  border-bottom-color: #4baf8d;
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/bower_components\/sass-bootstrap\/lib\/_navs\.scss}line{font-family:\00003257}}
@@ -4763,7 +4847,7 @@ input[type="button"].btn-block {
 @media (min-width: 768px) {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/bower_components\/sass-bootstrap\/lib\/_navbar\.scss}line{font-family:\0000311}}
   .navbar {
-    border-radius: 4px;
+    border-radius: 0px;
   }
 }
 
@@ -4926,7 +5010,7 @@ input[type="button"].btn-block {
   margin-bottom: 8px;
   background-color: transparent;
   border: 1px solid transparent;
-  border-radius: 4px;
+  border-radius: 0px;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/bower_components\/sass-bootstrap\/lib\/_navbar\.scss}line{font-family:\00003187}}
 .navbar-toggle .icon-bar {
@@ -5300,7 +5384,7 @@ input[type="button"].btn-block {
   margin-bottom: 25px;
   list-style: none;
   background-color: whitesmoke;
-  border-radius: 4px;
+  border-radius: 0px;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/bower_components\/sass-bootstrap\/lib\/_breadcrumbs\.scss}line{font-family:\0000312}}
 .breadcrumb > li {
@@ -5315,110 +5399,6 @@ input[type="button"].btn-block {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/bower_components\/sass-bootstrap\/lib\/_breadcrumbs\.scss}line{font-family:\0000320}}
 .breadcrumb > .active {
   color: #999999;
-}
-
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/bower_components\/sass-bootstrap\/lib\/_pagination\.scss}line{font-family:\000034}}
-.pagination {
-  display: inline-block;
-  padding-left: 0;
-  margin: 25px 0;
-  border-radius: 4px;
-}
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/bower_components\/sass-bootstrap\/lib\/_pagination\.scss}line{font-family:\0000310}}
-.pagination > li {
-  display: inline;
-}
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/bower_components\/sass-bootstrap\/lib\/_pagination\.scss}line{font-family:\0000313}}
-.pagination > li > a,
-.pagination > li > span {
-  position: relative;
-  float: left;
-  padding: 6px 12px;
-  line-height: 1.42857;
-  text-decoration: none;
-  background-color: white;
-  border: 1px solid #dddddd;
-  margin-left: -1px;
-}
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/bower_components\/sass-bootstrap\/lib\/_pagination\.scss}line{font-family:\0000325}}
-.pagination > li:first-child > a,
-.pagination > li:first-child > span {
-  margin-left: 0;
-  border-bottom-left-radius: 4px;
-  border-top-left-radius: 4px;
-}
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/bower_components\/sass-bootstrap\/lib\/_pagination\.scss}line{font-family:\0000332}}
-.pagination > li:last-child > a,
-.pagination > li:last-child > span {
-  border-bottom-right-radius: 4px;
-  border-top-right-radius: 4px;
-}
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/bower_components\/sass-bootstrap\/lib\/_pagination\.scss}line{font-family:\0000341}}
-.pagination > li > a:hover, .pagination > li > a:focus,
-.pagination > li > span:hover,
-.pagination > li > span:focus {
-  background-color: #eeeeee;
-}
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/bower_components\/sass-bootstrap\/lib\/_pagination\.scss}line{font-family:\0000350}}
-.pagination > .active > a, .pagination > .active > a:hover, .pagination > .active > a:focus,
-.pagination > .active > span,
-.pagination > .active > span:hover,
-.pagination > .active > span:focus {
-  z-index: 2;
-  color: white;
-  background-color: #428bca;
-  border-color: #428bca;
-  cursor: default;
-}
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/bower_components\/sass-bootstrap\/lib\/_pagination\.scss}line{font-family:\0000365}}
-.pagination > .disabled > span,
-.pagination > .disabled > span:hover,
-.pagination > .disabled > span:focus,
-.pagination > .disabled > a,
-.pagination > .disabled > a:hover,
-.pagination > .disabled > a:focus {
-  color: #999999;
-  background-color: white;
-  border-color: #dddddd;
-  cursor: not-allowed;
-}
-
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/bower_components\/sass-bootstrap\/lib\/_mixins\.scss}line{font-family:\00003515}}
-.pagination-lg > li > a,
-.pagination-lg > li > span {
-  padding: 10px 16px;
-  font-size: 23px;
-}
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/bower_components\/sass-bootstrap\/lib\/_mixins\.scss}line{font-family:\00003521}}
-.pagination-lg > li:first-child > a,
-.pagination-lg > li:first-child > span {
-  border-bottom-left-radius: 6px;
-  border-top-left-radius: 6px;
-}
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/bower_components\/sass-bootstrap\/lib\/_mixins\.scss}line{font-family:\00003527}}
-.pagination-lg > li:last-child > a,
-.pagination-lg > li:last-child > span {
-  border-bottom-right-radius: 6px;
-  border-top-right-radius: 6px;
-}
-
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/bower_components\/sass-bootstrap\/lib\/_mixins\.scss}line{font-family:\00003515}}
-.pagination-sm > li > a,
-.pagination-sm > li > span {
-  padding: 5px 10px;
-  font-size: 16px;
-}
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/bower_components\/sass-bootstrap\/lib\/_mixins\.scss}line{font-family:\00003521}}
-.pagination-sm > li:first-child > a,
-.pagination-sm > li:first-child > span {
-  border-bottom-left-radius: 3px;
-  border-top-left-radius: 3px;
-}
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/bower_components\/sass-bootstrap\/lib\/_mixins\.scss}line{font-family:\00003527}}
-.pagination-sm > li:last-child > a,
-.pagination-sm > li:last-child > span {
-  border-bottom-right-radius: 3px;
-  border-top-right-radius: 3px;
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/bower_components\/sass-bootstrap\/lib\/_pager\.scss}line{font-family:\000036}}
@@ -5513,11 +5493,11 @@ input[type="button"].btn-block {
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/bower_components\/sass-bootstrap\/lib\/_labels\.scss}line{font-family:\0000340}}
 .label-primary {
-  background-color: #428bca;
+  background-color: #7fc8af;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/bower_components\/sass-bootstrap\/lib\/_mixins\.scss}line{font-family:\00003540}}
 .label-primary[href]:hover, .label-primary[href]:focus {
-  background-color: #3071a9;
+  background-color: #5bb999;
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/bower_components\/sass-bootstrap\/lib\/_labels\.scss}line{font-family:\0000344}}
@@ -5592,7 +5572,7 @@ a.badge:hover, a.badge:focus {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/bower_components\/sass-bootstrap\/lib\/_badges\.scss}line{font-family:\0000345}}
 a.list-group-item.active > .badge,
 .nav-pills > .active > a > .badge {
-  color: #428bca;
+  color: #7fc8af;
   background-color: white;
 }
 
@@ -5622,7 +5602,7 @@ a.list-group-item.active > .badge,
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/bower_components\/sass-bootstrap\/lib\/_jumbotron\.scss}line{font-family:\0000323}}
 .container .jumbotron {
-  border-radius: 6px;
+  border-radius: 0px;
 }
 @media screen and (min-width: 768px) {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/bower_components\/sass-bootstrap\/lib\/_jumbotron\.scss}line{font-family:\000036}}
@@ -5657,14 +5637,14 @@ a.list-group-item.active > .badge,
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/bower_components\/sass-bootstrap\/lib\/_thumbnails\.scss}line{font-family:\0000321}}
 .thumbnail .caption {
   padding: 9px;
-  color: #333333;
+  color: #666666;
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/bower_components\/sass-bootstrap\/lib\/_thumbnails\.scss}line{font-family:\0000330}}
 a.thumbnail:hover,
 a.thumbnail:focus,
 a.thumbnail.active {
-  border-color: #428bca;
+  border-color: #7fc8af;
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/bower_components\/sass-bootstrap\/lib\/_alerts\.scss}line{font-family:\000039}}
@@ -5672,7 +5652,7 @@ a.thumbnail.active {
   padding: 15px;
   margin-bottom: 25px;
   border: 1px solid transparent;
-  border-radius: 4px;
+  border-radius: 0px;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/bower_components\/sass-bootstrap\/lib\/_alerts\.scss}line{font-family:\0000316}}
 .alert h4 {
@@ -5819,7 +5799,7 @@ a.thumbnail.active {
   height: 25px;
   margin-bottom: 25px;
   background-color: whitesmoke;
-  border-radius: 4px;
+  border-radius: 0px;
   -webkit-box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.1);
   box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.1);
 }
@@ -5833,7 +5813,7 @@ a.thumbnail.active {
   line-height: 25px;
   color: white;
   text-align: center;
-  background-color: #428bca;
+  background-color: #7fc8af;
   -webkit-box-shadow: inset 0 -1px 0 rgba(0, 0, 0, 0.15);
   box-shadow: inset 0 -1px 0 rgba(0, 0, 0, 0.15);
   -webkit-transition: width 0.6s ease;
@@ -5963,14 +5943,14 @@ a.thumbnail.active {
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/bower_components\/sass-bootstrap\/lib\/_list-group\.scss}line{font-family:\0000327}}
 .list-group-item:first-child {
-  border-top-right-radius: 4px;
-  border-top-left-radius: 4px;
+  border-top-right-radius: 0px;
+  border-top-left-radius: 0px;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/bower_components\/sass-bootstrap\/lib\/_list-group\.scss}line{font-family:\0000330}}
 .list-group-item:last-child {
   margin-bottom: 0;
-  border-bottom-right-radius: 4px;
-  border-bottom-left-radius: 4px;
+  border-bottom-right-radius: 0px;
+  border-bottom-left-radius: 0px;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/bower_components\/sass-bootstrap\/lib\/_list-group\.scss}line{font-family:\0000336}}
 .list-group-item > .badge {
@@ -5998,8 +5978,8 @@ a.list-group-item:hover, a.list-group-item:focus {
 a.list-group-item.active, a.list-group-item.active:hover, a.list-group-item.active:focus {
   z-index: 2;
   color: white;
-  background-color: #428bca;
-  border-color: #428bca;
+  background-color: #7fc8af;
+  border-color: #7fc8af;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/bower_components\/sass-bootstrap\/lib\/_list-group\.scss}line{font-family:\0000369}}
 a.list-group-item.active .list-group-item-heading, a.list-group-item.active:hover .list-group-item-heading, a.list-group-item.active:focus .list-group-item-heading {
@@ -6007,7 +5987,7 @@ a.list-group-item.active .list-group-item-heading, a.list-group-item.active:hove
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/bower_components\/sass-bootstrap\/lib\/_list-group\.scss}line{font-family:\0000372}}
 a.list-group-item.active .list-group-item-text, a.list-group-item.active:hover .list-group-item-text, a.list-group-item.active:focus .list-group-item-text {
-  color: #e1edf7;
+  color: white;
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/bower_components\/sass-bootstrap\/lib\/_list-group\.scss}line{font-family:\0000381}}
@@ -6027,7 +6007,7 @@ a.list-group-item.active .list-group-item-text, a.list-group-item.active:hover .
   margin-bottom: 25px;
   background-color: white;
   border: 1px solid transparent;
-  border-radius: 4px;
+  border-radius: 0px;
   -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05);
   box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05);
 }
@@ -6135,8 +6115,8 @@ a.list-group-item.active .list-group-item-text, a.list-group-item.active:hover .
 .panel-heading {
   padding: 10px 15px;
   border-bottom: 1px solid transparent;
-  border-top-right-radius: 3px;
-  border-top-left-radius: 3px;
+  border-top-right-radius: -1px;
+  border-top-left-radius: -1px;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/bower_components\/sass-bootstrap\/lib\/_panels\.scss}line{font-family:\0000399}}
 .panel-heading > .dropdown .dropdown-toggle {
@@ -6159,14 +6139,14 @@ a.list-group-item.active .list-group-item-text, a.list-group-item.active:hover .
   padding: 10px 15px;
   background-color: whitesmoke;
   border-top: 1px solid #dddddd;
-  border-bottom-right-radius: 3px;
-  border-bottom-left-radius: 3px;
+  border-bottom-right-radius: -1px;
+  border-bottom-left-radius: -1px;
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/bower_components\/sass-bootstrap\/lib\/_panels\.scss}line{font-family:\00003130}}
 .panel-group .panel {
   margin-bottom: 0;
-  border-radius: 4px;
+  border-radius: 0px;
   overflow: hidden;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/bower_components\/sass-bootstrap\/lib\/_panels\.scss}line{font-family:\00003134}}
@@ -6215,17 +6195,17 @@ a.list-group-item.active .list-group-item-text, a.list-group-item.active:hover .
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/bower_components\/sass-bootstrap\/lib\/_panels\.scss}line{font-family:\00003158}}
 .panel-primary {
-  border-color: #428bca;
+  border-color: #7fc8af;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/bower_components\/sass-bootstrap\/lib\/_mixins\.scss}line{font-family:\00003396}}
 .panel-primary > .panel-heading {
   color: white;
-  background-color: #428bca;
-  border-color: #428bca;
+  background-color: #7fc8af;
+  border-color: #7fc8af;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/bower_components\/sass-bootstrap\/lib\/_mixins\.scss}line{font-family:\00003401}}
 .panel-primary > .panel-heading + .panel-collapse .panel-body {
-  border-top-color: #428bca;
+  border-top-color: #7fc8af;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/bower_components\/sass-bootstrap\/lib\/_mixins\.scss}line{font-family:\00003404}}
 .panel-primary > .panel-heading > .dropdown .caret {
@@ -6233,7 +6213,7 @@ a.list-group-item.active .list-group-item-text, a.list-group-item.active:hover .
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/bower_components\/sass-bootstrap\/lib\/_mixins\.scss}line{font-family:\00003409}}
 .panel-primary > .panel-footer + .panel-collapse .panel-body {
-  border-bottom-color: #428bca;
+  border-bottom-color: #7fc8af;
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/bower_components\/sass-bootstrap\/lib\/_panels\.scss}line{font-family:\00003161}}
@@ -6335,7 +6315,7 @@ a.list-group-item.active .list-group-item-text, a.list-group-item.active:hover .
   margin-bottom: 20px;
   background-color: whitesmoke;
   border: 1px solid #e3e3e3;
-  border-radius: 4px;
+  border-radius: 0px;
   -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);
   box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);
 }
@@ -6348,13 +6328,13 @@ a.list-group-item.active .list-group-item-text, a.list-group-item.active:hover .
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/bower_components\/sass-bootstrap\/lib\/_wells\.scss}line{font-family:\0000322}}
 .well-lg {
   padding: 24px;
-  border-radius: 6px;
+  border-radius: 0px;
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/bower_components\/sass-bootstrap\/lib\/_wells\.scss}line{font-family:\0000326}}
 .well-sm {
   padding: 9px;
-  border-radius: 3px;
+  border-radius: 0px;
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/bower_components\/sass-bootstrap\/lib\/_close\.scss}line{font-family:\000036}}
@@ -6390,16 +6370,101 @@ button.close {
 article.post {
   padding-bottom: 45px;
   margin-bottom: 30px;
-  border-bottom: 2px dotted #eeeeee;
+  border-bottom: 3px dotted #eeeeee;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/styles\/lib\/_blog\.scss}line{font-family:\0000311}}
 article.post .post-header .post-meta {
-  font-family: "Oswald";
+  font-family: "Open Sans";
   font-size: 14px;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/styles\/lib\/_blog\.scss}line{font-family:\0000316}}
-article.post .post-header h2 {
+article.post .post-header .post-title {
+  font-size: 36px;
   text-transform: uppercase;
+  margin-top: 12.5px;
+}
+@media (min-width: 768px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/styles\/lib\/_blog\.scss}line{font-family:\0000316}}
+  article.post .post-header .post-title {
+    font-size: 58px;
+  }
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/styles\/lib\/_pagination\.scss}line{font-family:\000035}}
+.pagination {
+  text-align: center;
+  position: relative;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/styles\/lib\/_pagination\.scss}line{font-family:\000039}}
+.pagination .page-number {
+  display: inline-block;
+  font-family: "Open Sans";
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 1.3px;
+  color: #b0b0b0;
+}
+@media (min-width: 768px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/styles\/lib\/_pagination\.scss}line{font-family:\000039}}
+  .pagination .page-number {
+    margin-top: 7.5px;
+  }
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/styles\/lib\/_pagination\.scss}line{font-family:\0000322}}
+.pagination .older-posts {
+  position: inherit;
+  margin-left: 12.5px;
+}
+@media (min-width: 768px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/styles\/lib\/_pagination\.scss}line{font-family:\0000322}}
+  .pagination .older-posts {
+    position: absolute;
+    right: 0;
+    margin-left: 0;
+  }
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/styles\/lib\/_footer\.scss}line{font-family:\000036}}
+footer.footer {
+  background: #f4f2ee;
+  margin-top: 100px;
+  padding-top: 50px;
+  padding-bottom: 35px;
+  text-align: center;
+  font-family: "Open Sans";
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/styles\/lib\/_footer\.scss}line{font-family:\0000314}}
+footer.footer .social {
+  padding-bottom: 43.2px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/styles\/lib\/_footer\.scss}line{font-family:\0000319}}
+footer.footer .social-icons a {
+  margin-left: 5.4px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/styles\/lib\/_footer\.scss}line{font-family:\0000323}}
+footer.footer .social-icons a:first-child {
+  margin-left: 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/styles\/lib\/_footer\.scss}line{font-family:\0000329}}
+footer.footer .social-caption,
+footer.footer .copyright {
+  text-transform: uppercase;
+  letter-spacing: 1.1px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/styles\/lib\/_footer\.scss}line{font-family:\0000334}}
+footer.footer .social-caption {
+  font-size: 11px;
+  margin-bottom: 16.2px;
+  font-weight: 300;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/styles\/lib\/_footer\.scss}line{font-family:\0000340}}
+footer.footer .built-by {
+  font-size: 12px;
+  margin-bottom: 9px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/styles\/lib\/_footer\.scss}line{font-family:\0000345}}
+footer.footer .copyright {
+  font-size: 10px;
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/bower_components\/sass-bootstrap\/lib\/_modals\.scss}line{font-family:\0000311}}
@@ -6452,7 +6517,7 @@ article.post .post-header h2 {
   background-color: white;
   border: 1px solid #999999;
   border: 1px solid rgba(0, 0, 0, 0.2);
-  border-radius: 6px;
+  border-radius: 0px;
   -webkit-box-shadow: 0 3px 9px rgba(0, 0, 0, 0.5);
   box-shadow: 0 3px 9px rgba(0, 0, 0, 0.5);
   background-clip: padding-box;
@@ -6595,7 +6660,7 @@ article.post .post-header h2 {
   text-align: center;
   text-decoration: none;
   background-color: black;
-  border-radius: 4px;
+  border-radius: 0px;
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/bower_components\/sass-bootstrap\/lib\/_tooltip\.scss}line{font-family:\0000335}}
@@ -6682,7 +6747,7 @@ article.post .post-header h2 {
   background-clip: padding-box;
   border: 1px solid #cccccc;
   border: 1px solid rgba(0, 0, 0, 0.2);
-  border-radius: 6px;
+  border-radius: 0px;
   -webkit-box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
   box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
   white-space: normal;
@@ -7646,7 +7711,25 @@ td.visible-print {
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/styles\/lib\/_theme\.scss}line{font-family:\000034}}
 .jumbotron {
-  background: #f4f2ee url("./images/grid-pattern.png") repeat;
+  background: #f4f2ee url(/assets/bower_components/simply-sewphisticated-bootstrap/app/images/grid-pattern.png) repeat;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/styles\/lib\/_theme\.scss}line{font-family:\0000310}}
+.btn {
+  font-family: "Open Sans";
+  font-size: 11px;
+  text-transform: uppercase;
+  border-width: 2px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/styles\/lib\/_theme\.scss}line{font-family:\0000317}}
+a {
+  -webkit-transition: color 0.2s ease-in;
+  transition: color 0.2s ease-in;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/bower_components\/simply-sewphisticated-bootstrap\/app\/styles\/lib\/_theme\.scss}line{font-family:\0000321}}
+a:hover, a:focus {
+  text-decoration: none;
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/styles\/main\.scss}line{font-family:\000035}}
@@ -7654,4 +7737,55 @@ img {
   display: block;
   max-width: 100%;
   height: auto;
+}
+
+/* Import the font file with the icons in it */
+@font-face {
+  font-family: 'icons';
+  src: url("../fonts/icons.eot");
+  src: url("../fonts/icons.eot?#iefix") format("embedded-opentype"), url("../fonts/icons.woff") format("woff"), url("../fonts/icons.ttf") format("truetype"), url("../fonts/icons.svg#icons") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Apply these base styles to all icons */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/styles\/main\.scss}line{font-family:\0000324}}
+.icon-ghost, .icon-feed, .icon-twitter, .icon-google-plus, .icon-facebook {
+  font-family: 'icons';
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  text-decoration: none;
+}
+
+/* Each icon is created by inserting the corret character into the
+   content of the :before pseudo element. Like a boss. */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/styles\/main\.scss}line{font-family:\0000338}}
+.icon-ghost:before {
+  content: "\e000";
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/styles\/main\.scss}line{font-family:\0000341}}
+.icon-feed:before {
+  content: "\e001";
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/styles\/main\.scss}line{font-family:\0000344}}
+.icon-twitter:before {
+  content: "\e002";
+  font-size: 1.1em;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/styles\/main\.scss}line{font-family:\0000348}}
+.icon-google-plus:before {
+  content: "\e003";
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/StorageHD\/Development\/Code\/SimplySewphisticated\/ghost-0\.3\.3\/content\/themes\/simply-sewphisticated\/source\/styles\/main\.scss}line{font-family:\0000351}}
+.icon-facebook:before {
+  content: "\e004";
 }

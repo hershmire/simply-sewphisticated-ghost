@@ -26,12 +26,22 @@
     {{! Everything else gets inserted here }}
     {{{body}}}
 
-    <footer class="site-footer">
-        <a class="subscribe icon-feed" href="{{@blog.url}}/rss/"><span class="tooltip">Subscribe!</span></a>
-        <div class="inner">
-             <section class="poweredby">Created by Eddie Leffler and Jes Voight</section>
-             <section class="copyright">&copy; <a href="/">{{@blog.title}}</a> 2013 &bull; All rights reserved.</section>
+    <footer class="footer">
+      <div class="container">
+        <div class="social">
+          <section class="social-caption">Let's be friends</section>
+          <div class="social-icons">
+            <a href="https://twitter.com/SSewphisticated" class="global-social-twitter"></a>
+            <a href="https://www.facebook.com/SimplySewphisticatedShop" class="global-social-facebook"></a>
+            <a href="http://www.pinterest.com/meremoo23/" class="global-social-pinterest"></a>
+            <a href="{{@blog.url}}/rss/" class="global-social-rss"></a>
+          </div>
         </div>
+        <div class="inner">
+           <section class="built-by">Created by Eddie Leffler and Jes Voight</section>
+           <section class="copyright">&copy; {{@blog.title}} 2013. All rights reserved.</section>
+        </div>
+      </div>
     </footer>
 
     {{! Ghost outputs important scripts and data with this tag }}

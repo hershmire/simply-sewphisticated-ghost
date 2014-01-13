@@ -20,31 +20,36 @@
 
 {{! The main content area on the homepage }}
 <main class="container" role="main">
-  {{! Each post will be output using this markup }}
-  {{#foreach posts}}
+  <div class="row">
+    <div class="col-md-10 col-md-offset-1">
 
-  <article class="{{post_class}}">
-    <header class="post-header">
-      <span class="post-meta">
-        <time datetime="{{date format='MM-DD-YYYY'}}">{{date format="MMMM DD, YYYY"}}</time>
-      </span>
-      <h2 class="post-title"><a href="{{url}}">{{{title}}}</a></h2>
+      {{! Each post will be output using this markup }}
+      {{#foreach posts}}
 
-    </header>
-    <section class="post-excerpt">
+      <article class="{{post_class}}">
+        <header class="post-header">
+          <span class="post-meta">
+            <time datetime="{{date format='MM-DD-YYYY'}}">{{date format="MMMM DD, YYYY"}}</time>
+          </span>
+          <h2 class="post-title"><a href="{{url}}">{{{title}}}</a></h2>
 
-      {{! Features Image Workaround }}
-      <p>{{excerpt}}&hellip;</p>
-      {{content words="0"}}
+        </header>
+        <section class="post-excerpt">
 
-      {{!-- <button type="button" href="{{url}}" class="btn btn-primary">Continue Reading</button> --}}
-    </section>
-    {{#if tags}}<div class="tags">Tagged in: {{tags}}</div>{{/if}}
-  </article>
+          {{! Features Image Workaround }}
+          <p>{{excerpt}}&hellip;</p>
+          {{content words="0"}}
 
-  {{/foreach}}
+          {{!-- <button type="button" href="{{url}}" class="btn btn-primary">Continue Reading</button> --}}
+        </section>
+        {{#if tags}}<div class="tags">Tagged in: {{tags}}</div>{{/if}}
+      </article>
 
-  {{!! After all the posts, we have the previous/next pagination links }}
-  {{pagination}}
+      {{/foreach}}
 
+      {{!! After all the posts, we have the previous/next pagination links }}
+      {{pagination}}
+
+    <div>
+  </div>
 </main>

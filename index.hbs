@@ -6,14 +6,16 @@
 {{! The big featured header on the homepage, with the site logo and description }}
 <header id="site-head" class="jumbotron" {{#if @blog.cover}}style="background-image: url({{@blog.cover}})"{{/if}}>
   <div class="container">
-    <div id="site-head-content" class="inner">
-      <a id="blog-logo" href="{{@blog.url}}">
-        {{#if @blog.logo}}
-          <img src="{{@blog.logo}}" alt="{{@blog.title}} Logo" />
-        {{else}}
-          {{@blog.title}}
-        {{/if}}
-      </a>
+    <div id="site-head-content" class="row">
+      <div class="col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2">
+        <a id="blog-logo" href="{{@blog.url}}">
+          {{#if @blog.logo}}
+            <img src="{{@blog.logo}}" alt="{{@blog.title}} Logo" />
+          {{else}}
+            {{@blog.title}}
+          {{/if}}
+        </a>
+      </div>
     </div>
   </div>
 </header>
@@ -21,7 +23,7 @@
 {{! The main content area on the homepage }}
 <main class="container" role="main">
   <div class="row">
-    <div class="col-md-10 col-md-offset-1">
+    <div class="col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2">
 
       {{! Each post will be output using this markup }}
       {{#foreach posts}}

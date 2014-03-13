@@ -20,7 +20,7 @@ module.exports =
     # assetCacheBuster: false
     sassDir: '<%= options.basePath %>/styles'
     cssDir: '<%= options.tempDir %>/styles'
-    generatedImagesDir: '<%= options.basePath %>/bower_components/simply-sewphisticated-bootstrap/app/images'
+    # generatedImagesDir: '<%= options.basePath %>/bower_components/simply-sewphisticated-bootstrap/app/images'
     imagesDir: '<%= options.basePath %>/bower_components/simply-sewphisticated-bootstrap/app/images/'
     javascriptsDir: '<%= options.basePath %>/bower_components/simply-sewphisticated-bootstrap/app/scripts'
     fontsDir: '<%= options.basePath %>/bower_components/simply-sewphisticated-bootstrap/app/styles/fonts'
@@ -31,11 +31,12 @@ module.exports =
     relativeAssets: false
     assetCacheBuster: false
 
-  dist:
-    options:
-      generatedImagesDir: '<%= options.buildDir %>'
+  # dist:
+  #   options:
+  #     generatedImagesDir: '<%= options.buildDir %>'
 
   server:
     options:
-      debugInfo: true
+      # debugInfo: true
+      outputStyle: 'nested'
       force: true

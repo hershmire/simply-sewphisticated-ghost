@@ -18,8 +18,22 @@ module.exports =
   #   tasks: ['karma:unit:run']
 
   compass:
-    files: ['<%= options.basePath %>/styles/{,*/}*.{scss,sass}'],
+    files: [
+      '<%= options.basePath %>/styles/{,*/}*.{scss,sass}'
+      '<%= options.basePath %>/bower_components/simply-sewphisticated-bootstrap/**/*/{,*/}*.{scss,sass}'
+    ],
     tasks: ['compass:server']
+
+
+  sass:
+    files: [
+      'assets/{,*/}/'
+      'assets/**/*.{scss,sass}'
+      'modules/{,*/}/'
+      'modules/**/*.{scss,sass}'
+      'magneto-styleguide.{scss,sass}'
+    ],
+    tasks: ['sass:dev']
 
   livereload:
     options:

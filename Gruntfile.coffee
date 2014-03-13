@@ -1,5 +1,5 @@
 #
-# Visa Gruntfile
+# Gruntfile
 # @author Eddie Leffler
 #
 module.exports = (grunt) ->

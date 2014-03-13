@@ -65,6 +65,15 @@ $icon-font-path: "/bower_components/sass-bootstrap/fonts/";
 
 @import "../bower_components/simply-sewphisticated-bootstrap/app/styles/lib/theme";
 
+#site-head {
+  padding-left: 0;
+  padding-right: 0;
+
+  @media (min-width: $screen-sm-min) {
+    margin-bottom: 60px;
+    padding-bottom: 60px;
+  }
+}
 
 img {
   display: block;

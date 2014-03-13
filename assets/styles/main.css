@@ -2541,7 +2541,17 @@ a {
   a:hover, a:focus {
     text-decoration: none; }
 
-/* line 69, ../../source/styles/main.scss */
+/* line 68, ../../source/styles/main.scss */
+#site-head {
+  padding-left: 0;
+  padding-right: 0; }
+  @media (min-width: 768px) {
+    /* line 68, ../../source/styles/main.scss */
+    #site-head {
+      margin-bottom: 60px;
+      padding-bottom: 60px; } }
+
+/* line 78, ../../source/styles/main.scss */
 img {
   display: block;
   max-width: 100%;
@@ -2556,7 +2566,7 @@ img {
   font-style: normal; }
 
 /* Apply these base styles to all icons */
-/* line 88, ../../source/styles/main.scss */
+/* line 97, ../../source/styles/main.scss */
 .icon-twitter, .icon-google-plus, .icon-facebook {
   font-family: 'icons';
   speak: none;
@@ -2570,15 +2580,15 @@ img {
 
 /* Each icon is created by inserting the corret character into the
    content of the :before pseudo element. Like a boss. */
-/* line 102, ../../source/styles/main.scss */
+/* line 111, ../../source/styles/main.scss */
 .icon-twitter:before {
   content: "\e002";
   font-size: 1.1em; }
 
-/* line 106, ../../source/styles/main.scss */
+/* line 115, ../../source/styles/main.scss */
 .icon-google-plus:before {
   content: "\e003"; }
 
-/* line 109, ../../source/styles/main.scss */
+/* line 118, ../../source/styles/main.scss */
 .icon-facebook:before {
   content: "\e004"; }

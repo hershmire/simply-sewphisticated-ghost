@@ -1629,266 +1629,6 @@ address {
   /* line 770, ../../source/bower_components/simply-sewphisticated-bootstrap/app/bower_components/sass-bootstrap/lib/_mixins.scss */
   .col-lg-offset-12 {
     margin-left: 100%; } }
-/* line 10, ../../source/bower_components/simply-sewphisticated-bootstrap/app/bower_components/sass-bootstrap/lib/_buttons.scss */
-.btn {
-  display: inline-block;
-  margin-bottom: 0;
-  font-weight: normal;
-  text-align: center;
-  vertical-align: middle;
-  cursor: pointer;
-  background-image: none;
-  border: 1px solid transparent;
-  white-space: nowrap;
-  padding: 6px 12px;
-  font-size: 18px;
-  line-height: 1.42857;
-  border-radius: 0px;
-  -webkit-user-select: none;
-  -moz-user-select: none;
-  -ms-user-select: none;
-  -o-user-select: none;
-  user-select: none; }
-  /* line 23, ../../source/bower_components/simply-sewphisticated-bootstrap/app/bower_components/sass-bootstrap/lib/_buttons.scss */
-  .btn:focus {
-    outline: thin dotted #333;
-    outline: 5px auto -webkit-focus-ring-color;
-    outline-offset: -2px; }
-  /* line 28, ../../source/bower_components/simply-sewphisticated-bootstrap/app/bower_components/sass-bootstrap/lib/_buttons.scss */
-  .btn:hover, .btn:focus {
-    color: #b0b0b0;
-    text-decoration: none; }
-  /* line 34, ../../source/bower_components/simply-sewphisticated-bootstrap/app/bower_components/sass-bootstrap/lib/_buttons.scss */
-  .btn:active, .btn.active {
-    outline: 0;
-    background-image: none;
-    -webkit-box-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
-    box-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125); }
-  /* line 42, ../../source/bower_components/simply-sewphisticated-bootstrap/app/bower_components/sass-bootstrap/lib/_buttons.scss */
-  .btn.disabled, .btn[disabled], fieldset[disabled] .btn {
-    cursor: not-allowed;
-    pointer-events: none;
-    opacity: 0.65;
-    filter: alpha(opacity=65);
-    -webkit-box-shadow: none;
-    box-shadow: none; }
-
-/* line 55, ../../source/bower_components/simply-sewphisticated-bootstrap/app/bower_components/sass-bootstrap/lib/_buttons.scss */
-.btn-default {
-  color: #b0b0b0;
-  background-color: white;
-  border-color: #f4f2ee; }
-  /* line 470, ../../source/bower_components/simply-sewphisticated-bootstrap/app/bower_components/sass-bootstrap/lib/_mixins.scss */
-  .btn-default:hover, .btn-default:focus, .btn-default:active, .btn-default.active {
-    color: #b0b0b0;
-    background-color: #ebebeb;
-    border-color: #dcd6c9; }
-  /* line 475, ../../source/bower_components/simply-sewphisticated-bootstrap/app/bower_components/sass-bootstrap/lib/_mixins.scss */
-  .open .btn-default.dropdown-toggle {
-    color: #b0b0b0;
-    background-color: #ebebeb;
-    border-color: #dcd6c9; }
-  /* line 481, ../../source/bower_components/simply-sewphisticated-bootstrap/app/bower_components/sass-bootstrap/lib/_mixins.scss */
-  .btn-default:active, .btn-default.active {
-    background-image: none; }
-  /* line 484, ../../source/bower_components/simply-sewphisticated-bootstrap/app/bower_components/sass-bootstrap/lib/_mixins.scss */
-  .open .btn-default.dropdown-toggle {
-    background-image: none; }
-  /* line 494, ../../source/bower_components/simply-sewphisticated-bootstrap/app/bower_components/sass-bootstrap/lib/_mixins.scss */
-  .btn-default.disabled, .btn-default.disabled:hover, .btn-default.disabled:focus, .btn-default.disabled:active, .btn-default.disabled.active, .btn-default[disabled], .btn-default[disabled]:hover, .btn-default[disabled]:focus, .btn-default[disabled]:active, .btn-default[disabled].active, fieldset[disabled] .btn-default, fieldset[disabled] .btn-default:hover, fieldset[disabled] .btn-default:focus, fieldset[disabled] .btn-default:active, fieldset[disabled] .btn-default.active {
-    background-color: white;
-    border-color: #f4f2ee; }
-
-/* line 58, ../../source/bower_components/simply-sewphisticated-bootstrap/app/bower_components/sass-bootstrap/lib/_buttons.scss */
-.btn-primary {
-  color: white;
-  background-color: #7fc8af;
-  border-color: #6dc0a4; }
-  /* line 470, ../../source/bower_components/simply-sewphisticated-bootstrap/app/bower_components/sass-bootstrap/lib/_mixins.scss */
-  .btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active {
-    color: white;
-    background-color: #62bc9d;
-    border-color: #48a887; }
-  /* line 475, ../../source/bower_components/simply-sewphisticated-bootstrap/app/bower_components/sass-bootstrap/lib/_mixins.scss */
-  .open .btn-primary.dropdown-toggle {
-    color: white;
-    background-color: #62bc9d;
-    border-color: #48a887; }
-  /* line 481, ../../source/bower_components/simply-sewphisticated-bootstrap/app/bower_components/sass-bootstrap/lib/_mixins.scss */
-  .btn-primary:active, .btn-primary.active {
-    background-image: none; }
-  /* line 484, ../../source/bower_components/simply-sewphisticated-bootstrap/app/bower_components/sass-bootstrap/lib/_mixins.scss */
-  .open .btn-primary.dropdown-toggle {
-    background-image: none; }
-  /* line 494, ../../source/bower_components/simply-sewphisticated-bootstrap/app/bower_components/sass-bootstrap/lib/_mixins.scss */
-  .btn-primary.disabled, .btn-primary.disabled:hover, .btn-primary.disabled:focus, .btn-primary.disabled:active, .btn-primary.disabled.active, .btn-primary[disabled], .btn-primary[disabled]:hover, .btn-primary[disabled]:focus, .btn-primary[disabled]:active, .btn-primary[disabled].active, fieldset[disabled] .btn-primary, fieldset[disabled] .btn-primary:hover, fieldset[disabled] .btn-primary:focus, fieldset[disabled] .btn-primary:active, fieldset[disabled] .btn-primary.active {
-    background-color: #7fc8af;
-    border-color: #6dc0a4; }
-
-/* line 62, ../../source/bower_components/simply-sewphisticated-bootstrap/app/bower_components/sass-bootstrap/lib/_buttons.scss */
-.btn-warning {
-  color: white;
-  background-color: #f0ad4e;
-  border-color: #eea236; }
-  /* line 470, ../../source/bower_components/simply-sewphisticated-bootstrap/app/bower_components/sass-bootstrap/lib/_mixins.scss */
-  .btn-warning:hover, .btn-warning:focus, .btn-warning:active, .btn-warning.active {
-    color: white;
-    background-color: #ed9c28;
-    border-color: #d58512; }
-  /* line 475, ../../source/bower_components/simply-sewphisticated-bootstrap/app/bower_components/sass-bootstrap/lib/_mixins.scss */
-  .open .btn-warning.dropdown-toggle {
-    color: white;
-    background-color: #ed9c28;
-    border-color: #d58512; }
-  /* line 481, ../../source/bower_components/simply-sewphisticated-bootstrap/app/bower_components/sass-bootstrap/lib/_mixins.scss */
-  .btn-warning:active, .btn-warning.active {
-    background-image: none; }
-  /* line 484, ../../source/bower_components/simply-sewphisticated-bootstrap/app/bower_components/sass-bootstrap/lib/_mixins.scss */
-  .open .btn-warning.dropdown-toggle {
-    background-image: none; }
-  /* line 494, ../../source/bower_components/simply-sewphisticated-bootstrap/app/bower_components/sass-bootstrap/lib/_mixins.scss */
-  .btn-warning.disabled, .btn-warning.disabled:hover, .btn-warning.disabled:focus, .btn-warning.disabled:active, .btn-warning.disabled.active, .btn-warning[disabled], .btn-warning[disabled]:hover, .btn-warning[disabled]:focus, .btn-warning[disabled]:active, .btn-warning[disabled].active, fieldset[disabled] .btn-warning, fieldset[disabled] .btn-warning:hover, fieldset[disabled] .btn-warning:focus, fieldset[disabled] .btn-warning:active, fieldset[disabled] .btn-warning.active {
-    background-color: #f0ad4e;
-    border-color: #eea236; }
-
-/* line 66, ../../source/bower_components/simply-sewphisticated-bootstrap/app/bower_components/sass-bootstrap/lib/_buttons.scss */
-.btn-danger {
-  color: white;
-  background-color: #d9534f;
-  border-color: #d43f3a; }
-  /* line 470, ../../source/bower_components/simply-sewphisticated-bootstrap/app/bower_components/sass-bootstrap/lib/_mixins.scss */
-  .btn-danger:hover, .btn-danger:focus, .btn-danger:active, .btn-danger.active {
-    color: white;
-    background-color: #d2322d;
-    border-color: #ac2925; }
-  /* line 475, ../../source/bower_components/simply-sewphisticated-bootstrap/app/bower_components/sass-bootstrap/lib/_mixins.scss */
-  .open .btn-danger.dropdown-toggle {
-    color: white;
-    background-color: #d2322d;
-    border-color: #ac2925; }
-  /* line 481, ../../source/bower_components/simply-sewphisticated-bootstrap/app/bower_components/sass-bootstrap/lib/_mixins.scss */
-  .btn-danger:active, .btn-danger.active {
-    background-image: none; }
-  /* line 484, ../../source/bower_components/simply-sewphisticated-bootstrap/app/bower_components/sass-bootstrap/lib/_mixins.scss */
-  .open .btn-danger.dropdown-toggle {
-    background-image: none; }
-  /* line 494, ../../source/bower_components/simply-sewphisticated-bootstrap/app/bower_components/sass-bootstrap/lib/_mixins.scss */
-  .btn-danger.disabled, .btn-danger.disabled:hover, .btn-danger.disabled:focus, .btn-danger.disabled:active, .btn-danger.disabled.active, .btn-danger[disabled], .btn-danger[disabled]:hover, .btn-danger[disabled]:focus, .btn-danger[disabled]:active, .btn-danger[disabled].active, fieldset[disabled] .btn-danger, fieldset[disabled] .btn-danger:hover, fieldset[disabled] .btn-danger:focus, fieldset[disabled] .btn-danger:active, fieldset[disabled] .btn-danger.active {
-    background-color: #d9534f;
-    border-color: #d43f3a; }
-
-/* line 70, ../../source/bower_components/simply-sewphisticated-bootstrap/app/bower_components/sass-bootstrap/lib/_buttons.scss */
-.btn-success {
-  color: white;
-  background-color: #5cb85c;
-  border-color: #4cae4c; }
-  /* line 470, ../../source/bower_components/simply-sewphisticated-bootstrap/app/bower_components/sass-bootstrap/lib/_mixins.scss */
-  .btn-success:hover, .btn-success:focus, .btn-success:active, .btn-success.active {
-    color: white;
-    background-color: #47a447;
-    border-color: #398439; }
-  /* line 475, ../../source/bower_components/simply-sewphisticated-bootstrap/app/bower_components/sass-bootstrap/lib/_mixins.scss */
-  .open .btn-success.dropdown-toggle {
-    color: white;
-    background-color: #47a447;
-    border-color: #398439; }
-  /* line 481, ../../source/bower_components/simply-sewphisticated-bootstrap/app/bower_components/sass-bootstrap/lib/_mixins.scss */
-  .btn-success:active, .btn-success.active {
-    background-image: none; }
-  /* line 484, ../../source/bower_components/simply-sewphisticated-bootstrap/app/bower_components/sass-bootstrap/lib/_mixins.scss */
-  .open .btn-success.dropdown-toggle {
-    background-image: none; }
-  /* line 494, ../../source/bower_components/simply-sewphisticated-bootstrap/app/bower_components/sass-bootstrap/lib/_mixins.scss */
-  .btn-success.disabled, .btn-success.disabled:hover, .btn-success.disabled:focus, .btn-success.disabled:active, .btn-success.disabled.active, .btn-success[disabled], .btn-success[disabled]:hover, .btn-success[disabled]:focus, .btn-success[disabled]:active, .btn-success[disabled].active, fieldset[disabled] .btn-success, fieldset[disabled] .btn-success:hover, fieldset[disabled] .btn-success:focus, fieldset[disabled] .btn-success:active, fieldset[disabled] .btn-success.active {
-    background-color: #5cb85c;
-    border-color: #4cae4c; }
-
-/* line 74, ../../source/bower_components/simply-sewphisticated-bootstrap/app/bower_components/sass-bootstrap/lib/_buttons.scss */
-.btn-info {
-  color: white;
-  background-color: #5bc0de;
-  border-color: #46b8da; }
-  /* line 470, ../../source/bower_components/simply-sewphisticated-bootstrap/app/bower_components/sass-bootstrap/lib/_mixins.scss */
-  .btn-info:hover, .btn-info:focus, .btn-info:active, .btn-info.active {
-    color: white;
-    background-color: #39b3d7;
-    border-color: #269abc; }
-  /* line 475, ../../source/bower_components/simply-sewphisticated-bootstrap/app/bower_components/sass-bootstrap/lib/_mixins.scss */
-  .open .btn-info.dropdown-toggle {
-    color: white;
-    background-color: #39b3d7;
-    border-color: #269abc; }
-  /* line 481, ../../source/bower_components/simply-sewphisticated-bootstrap/app/bower_components/sass-bootstrap/lib/_mixins.scss */
-  .btn-info:active, .btn-info.active {
-    background-image: none; }
-  /* line 484, ../../source/bower_components/simply-sewphisticated-bootstrap/app/bower_components/sass-bootstrap/lib/_mixins.scss */
-  .open .btn-info.dropdown-toggle {
-    background-image: none; }
-  /* line 494, ../../source/bower_components/simply-sewphisticated-bootstrap/app/bower_components/sass-bootstrap/lib/_mixins.scss */
-  .btn-info.disabled, .btn-info.disabled:hover, .btn-info.disabled:focus, .btn-info.disabled:active, .btn-info.disabled.active, .btn-info[disabled], .btn-info[disabled]:hover, .btn-info[disabled]:focus, .btn-info[disabled]:active, .btn-info[disabled].active, fieldset[disabled] .btn-info, fieldset[disabled] .btn-info:hover, fieldset[disabled] .btn-info:focus, fieldset[disabled] .btn-info:active, fieldset[disabled] .btn-info.active {
-    background-color: #5bc0de;
-    border-color: #46b8da; }
-
-/* line 83, ../../source/bower_components/simply-sewphisticated-bootstrap/app/bower_components/sass-bootstrap/lib/_buttons.scss */
-.btn-link {
-  color: #7fc8af;
-  font-weight: normal;
-  cursor: pointer;
-  border-radius: 0; }
-  /* line 92, ../../source/bower_components/simply-sewphisticated-bootstrap/app/bower_components/sass-bootstrap/lib/_buttons.scss */
-  .btn-link, .btn-link:active, .btn-link[disabled], fieldset[disabled] .btn-link {
-    background-color: transparent;
-    -webkit-box-shadow: none;
-    box-shadow: none; }
-  /* line 99, ../../source/bower_components/simply-sewphisticated-bootstrap/app/bower_components/sass-bootstrap/lib/_buttons.scss */
-  .btn-link, .btn-link:hover, .btn-link:focus, .btn-link:active {
-    border-color: transparent; }
-  /* line 103, ../../source/bower_components/simply-sewphisticated-bootstrap/app/bower_components/sass-bootstrap/lib/_buttons.scss */
-  .btn-link:hover, .btn-link:focus {
-    color: #4baf8d;
-    text-decoration: underline;
-    background-color: transparent; }
-  /* line 111, ../../source/bower_components/simply-sewphisticated-bootstrap/app/bower_components/sass-bootstrap/lib/_buttons.scss */
-  .btn-link[disabled]:hover, .btn-link[disabled]:focus, fieldset[disabled] .btn-link:hover, fieldset[disabled] .btn-link:focus {
-    color: #999999;
-    text-decoration: none; }
-
-/* line 122, ../../source/bower_components/simply-sewphisticated-bootstrap/app/bower_components/sass-bootstrap/lib/_buttons.scss */
-.btn-lg {
-  padding: 10px 16px;
-  font-size: 23px;
-  line-height: 1.33;
-  border-radius: 0px; }
-
-/* line 127, ../../source/bower_components/simply-sewphisticated-bootstrap/app/bower_components/sass-bootstrap/lib/_buttons.scss */
-.btn-sm,
-.btn-xs {
-  padding: 5px 10px;
-  font-size: 16px;
-  line-height: 1.5;
-  border-radius: 0px; }
-
-/* line 131, ../../source/bower_components/simply-sewphisticated-bootstrap/app/bower_components/sass-bootstrap/lib/_buttons.scss */
-.btn-xs {
-  padding: 1px 5px; }
-
-/* line 139, ../../source/bower_components/simply-sewphisticated-bootstrap/app/bower_components/sass-bootstrap/lib/_buttons.scss */
-.btn-block {
-  display: block;
-  width: 100%;
-  padding-left: 0;
-  padding-right: 0; }
-
-/* line 147, ../../source/bower_components/simply-sewphisticated-bootstrap/app/bower_components/sass-bootstrap/lib/_buttons.scss */
-.btn-block + .btn-block {
-  margin-top: 5px; }
-
-/* line 155, ../../source/bower_components/simply-sewphisticated-bootstrap/app/bower_components/sass-bootstrap/lib/_buttons.scss */
-input[type="submit"].btn-block,
-input[type="reset"].btn-block,
-input[type="button"].btn-block {
-  width: 100%; }
-
 /* line 10, ../../source/bower_components/simply-sewphisticated-bootstrap/app/bower_components/sass-bootstrap/lib/_component-animations.scss */
 .fade {
   opacity: 0;
@@ -2007,35 +1747,34 @@ article.post {
 /* line 6, ../../source/bower_components/simply-sewphisticated-bootstrap/app/styles/lib/_footer.scss */
 footer.footer {
   background: #f4f2ee;
-  margin-top: 100px;
   padding-top: 50px;
   padding-bottom: 35px;
   text-align: center;
   font-family: "Open Sans"; }
-  /* line 14, ../../source/bower_components/simply-sewphisticated-bootstrap/app/styles/lib/_footer.scss */
+  /* line 13, ../../source/bower_components/simply-sewphisticated-bootstrap/app/styles/lib/_footer.scss */
   footer.footer .social {
     padding-bottom: 43.2px; }
-  /* line 19, ../../source/bower_components/simply-sewphisticated-bootstrap/app/styles/lib/_footer.scss */
+  /* line 18, ../../source/bower_components/simply-sewphisticated-bootstrap/app/styles/lib/_footer.scss */
   footer.footer .social-icons a {
     margin-left: 5.4px; }
-  /* line 23, ../../source/bower_components/simply-sewphisticated-bootstrap/app/styles/lib/_footer.scss */
+  /* line 22, ../../source/bower_components/simply-sewphisticated-bootstrap/app/styles/lib/_footer.scss */
   footer.footer .social-icons a:first-child {
     margin-left: 0; }
-  /* line 29, ../../source/bower_components/simply-sewphisticated-bootstrap/app/styles/lib/_footer.scss */
+  /* line 28, ../../source/bower_components/simply-sewphisticated-bootstrap/app/styles/lib/_footer.scss */
   footer.footer .social-caption,
   footer.footer .copyright {
     text-transform: uppercase;
     letter-spacing: 1.1px; }
-  /* line 34, ../../source/bower_components/simply-sewphisticated-bootstrap/app/styles/lib/_footer.scss */
+  /* line 33, ../../source/bower_components/simply-sewphisticated-bootstrap/app/styles/lib/_footer.scss */
   footer.footer .social-caption {
     font-size: 11px;
     margin-bottom: 16.2px;
     font-weight: 300; }
-  /* line 40, ../../source/bower_components/simply-sewphisticated-bootstrap/app/styles/lib/_footer.scss */
+  /* line 39, ../../source/bower_components/simply-sewphisticated-bootstrap/app/styles/lib/_footer.scss */
   footer.footer .built-by {
     font-size: 12px;
     margin-bottom: 9px; }
-  /* line 45, ../../source/bower_components/simply-sewphisticated-bootstrap/app/styles/lib/_footer.scss */
+  /* line 44, ../../source/bower_components/simply-sewphisticated-bootstrap/app/styles/lib/_footer.scss */
   footer.footer .copyright {
     font-size: 10px; }
 
@@ -2541,17 +2280,65 @@ a {
   a:hover, a:focus {
     text-decoration: none; }
 
-/* line 68, ../../source/styles/main.scss */
+/* line 65, ../../source/styles/main.scss */
 #site-head {
   padding-left: 0;
   padding-right: 0; }
   @media (min-width: 768px) {
-    /* line 68, ../../source/styles/main.scss */
+    /* line 65, ../../source/styles/main.scss */
     #site-head {
       margin-bottom: 60px;
       padding-bottom: 60px; } }
 
-/* line 78, ../../source/styles/main.scss */
+/* line 75, ../../source/styles/main.scss */
+.pagination {
+  margin: 100px 0; }
+
+/* line 79, ../../source/styles/main.scss */
+.post-footer {
+  margin: 50px 0;
+  text-align: center; }
+  /* line 21, ../../source/bower_components/simply-sewphisticated-bootstrap/app/bower_components/sass-bootstrap/lib/_mixins.scss */
+  .post-footer:before, .post-footer:after {
+    content: " ";
+    /* 1 */
+    display: table;
+    /* 2 */ }
+  /* line 25, ../../source/bower_components/simply-sewphisticated-bootstrap/app/bower_components/sass-bootstrap/lib/_mixins.scss */
+  .post-footer:after {
+    clear: both; }
+  @media only screen and (min-width: 480px) {
+    /* line 79, ../../source/styles/main.scss */
+    .post-footer {
+      text-align: left; } }
+  /* line 89, ../../source/styles/main.scss */
+  .post-footer .author {
+    font-size: 12px;
+    margin-bottom: 20px; }
+    @media only screen and (min-width: 480px) {
+      /* line 89, ../../source/styles/main.scss */
+      .post-footer .author {
+        width: 60%;
+        float: left; } }
+  @media only screen and (min-width: 480px) {
+    /* line 99, ../../source/styles/main.scss */
+    .post-footer .share {
+      float: right; } }
+  /* line 104, ../../source/styles/main.scss */
+  .post-footer .share a {
+    font-size: 18px;
+    display: inline-block;
+    margin: 0 1.6rem 1.6rem 0;
+    color: #b0b0b0;
+    text-decoration: none; }
+    /* line 110, ../../source/styles/main.scss */
+    .post-footer .share a:hover {
+      color: #8a8a8a; }
+    /* line 113, ../../source/styles/main.scss */
+    .post-footer .share a:last-child {
+      margin: 0; }
+
+/* line 120, ../../source/styles/main.scss */
 img {
   display: block;
   max-width: 100%;
@@ -2566,7 +2353,7 @@ img {
   font-style: normal; }
 
 /* Apply these base styles to all icons */
-/* line 97, ../../source/styles/main.scss */
+/* line 139, ../../source/styles/main.scss */
 .icon-twitter, .icon-google-plus, .icon-facebook {
   font-family: 'icons';
   speak: none;
@@ -2578,17 +2365,20 @@ img {
   -webkit-font-smoothing: antialiased;
   text-decoration: none; }
 
+/* line 151, ../../source/styles/main.scss */
+.icon-twitter:before, .icon-google-plus:before, .icon-facebook:before {
+  font-size: 1.4em; }
+
 /* Each icon is created by inserting the corret character into the
    content of the :before pseudo element. Like a boss. */
-/* line 111, ../../source/styles/main.scss */
+/* line 157, ../../source/styles/main.scss */
 .icon-twitter:before {
-  content: "\e002";
-  font-size: 1.1em; }
+  content: "\e002"; }
 
-/* line 115, ../../source/styles/main.scss */
+/* line 160, ../../source/styles/main.scss */
 .icon-google-plus:before {
   content: "\e003"; }
 
-/* line 118, ../../source/styles/main.scss */
+/* line 163, ../../source/styles/main.scss */
 .icon-facebook:before {
   content: "\e004"; }

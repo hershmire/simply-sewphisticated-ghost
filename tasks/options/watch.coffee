@@ -24,17 +24,6 @@ module.exports =
     ],
     tasks: ['compass:server']
 
-
-  sass:
-    files: [
-      'assets/{,*/}/'
-      'assets/**/*.{scss,sass}'
-      'modules/{,*/}/'
-      'modules/**/*.{scss,sass}'
-      'magneto-styleguide.{scss,sass}'
-    ],
-    tasks: ['sass:dev']
-
   livereload:
     options:
       livereload: '<%= connect.options.livereload %>'

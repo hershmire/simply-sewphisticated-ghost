@@ -31,9 +31,9 @@ module.exports =
     relativeAssets: false
     assetCacheBuster: false
 
-  # dist:
-  #   options:
-  #     generatedImagesDir: '<%= options.buildDir %>'
+  dist:
+    options:
+      outputStyle: 'compressed'
 
   server:
     options:
